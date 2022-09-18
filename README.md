@@ -1,4 +1,5 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1hIL8erv_HubXpxkuD2i8fBy6pwZKlzLT/view">
+
 <h1 align="center">Hi 👋, I'm Prathmesh Tangade</h1>
 <h3 align="center">FLUTTER DEVELOPER LEARNER</h3>
 <img align="right" alt="Coding" width="400" src="https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif">
