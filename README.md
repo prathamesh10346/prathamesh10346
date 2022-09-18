@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **prathameshtangade097@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Yoao0cS_0ZFB2r5QENYQWG3Kr-SSklX4/view](https://drive.google.com/file/d/1Yoao0cS_0ZFB2r5QENYQWG3Kr-SSklX4/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Yoao0cS_0ZFB2r5QENYQWG3Kr-SSklX4/view](https://drive.google.com/file/d/1zW0Fnff9Qbmdzs9588rFOXj48juCx8UG/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
