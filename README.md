@@ -20,7 +20,7 @@
 
 - 📱 I’m intrested in **Android Development**
 
-- 💻 All of my projects are available at [https://prathamesh10346.github.io/portfolio_PT/](https://prathamesh10346.github.io/portfolio_PT/)
+- 💻 All of my projects are available at My Portfolio [ www.Prathmeshtangade.co](http://www.Prathmeshtangade.co)
 
 - 🎥 Also I have a Youtube Channel [https://youtube.com/channel/UCK4lrimMbIUQkcc471nvr_g](https://youtube.com/channel/UCK4lrimMbIUQkcc471nvr_g)
 
