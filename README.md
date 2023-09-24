@@ -14,15 +14,13 @@
 
 - 🔭 Hello Everyone 👋, My name is **Prathmesh Tangade**
 
-- 👨🏻‍💻 I’m currently learning **FLUTTER**
+- 👨🏻‍💻 I’m currently  **FLUTTER DEVELOPER**
 
 - 🎒 I’m a Software **Engineering Student**
 
-- 📱 I’m intrested in **Android Development**
+- 📱 I’m involved in **fREELANCING**
 
 - 💻 All of my projects are available at My Portfolio [ www.Prathmeshtangade.co](http://www.Prathmeshtangade.co)
-
-- 🎥 Also I have a Youtube Channel [https://youtube.com/channel/UCK4lrimMbIUQkcc471nvr_g](https://youtube.com/channel/UCK4lrimMbIUQkcc471nvr_g)
 
 - 💬 You can see my portfolio on **Instagram**
 
