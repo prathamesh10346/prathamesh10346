@@ -6,7 +6,7 @@
 ![mi perfil](https://res.cloudinary.com/dccvy4s02/image/upload/v1695532338/dd_p3mi4q.gif)
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Prathmesh Tangade 👨‍💻 </h1>
-<h3 align="center">FLUTTER DEVELOPER LEARNER</h3>
+<h3 align="center">FLUTTER DEVELOPER</h3>
 <img align="right" alt="Coding" width="400" src="https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif">
 
 
