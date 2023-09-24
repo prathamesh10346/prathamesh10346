@@ -18,7 +18,7 @@
 
 - 🎒 I’m a Software **Engineering Student**
 
-- 📱 I’m involved in **fREELANCING**
+- 📱 I’m involved in **FREELANCING**
 
 - 💻 All of my projects are available at My Portfolio [ www.Prathmeshtangade.co](http://www.Prathmeshtangade.co)
 
