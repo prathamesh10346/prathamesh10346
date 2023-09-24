@@ -26,8 +26,6 @@
 
 - 📫 How to reach me **prathameshtangade097@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Yoao0cS_0ZFB2r5QENYQWG3Kr-SSklX4/view](https://drive.google.com/file/d/1zW0Fnff9Qbmdzs9588rFOXj48juCx8UG/view)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/prathamesh10346" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="prathamesh10346" height="30" width="40" /></a>
