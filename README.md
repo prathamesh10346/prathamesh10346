@@ -20,7 +20,7 @@
 
 - 📱 I’m involved in **FREELANCING**
 
-- 💻 All of my projects are available at My Portfolio [ www.Prathmeshtangade.co](http://www.Prathmeshtangade.co)
+- 💻 All of my projects are available at My Portfolio [ www.Prathmeshtangade.co](http://www.Prathmeshtangade.tech)
 
 - 💬 You can see my portfolio on **Instagram**
 
